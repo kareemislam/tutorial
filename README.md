@@ -1,2 +1,2 @@
 # tutorial
-this is a git tutorial
+this is for git tutorial
